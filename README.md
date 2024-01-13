@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WeNdyCyber
+WE ARE WM CYBER
 
 <!---
 WeNdyCyber/WeNdyCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
